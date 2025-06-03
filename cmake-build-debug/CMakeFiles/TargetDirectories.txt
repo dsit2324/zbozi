@@ -1,0 +1,3 @@
+C:/Users/Dominik/CLionProjects/zbozi/cmake-build-debug/CMakeFiles/zbozi.dir
+C:/Users/Dominik/CLionProjects/zbozi/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Dominik/CLionProjects/zbozi/cmake-build-debug/CMakeFiles/rebuild_cache.dir
